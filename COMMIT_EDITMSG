@@ -1,0 +1,8 @@
+Add authentication and routing for GIS media application
+
+Implement authentication context, protected routes, and basic UI structure for the Khisba GIS mapping application.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: cdb784cf-8e2a-46ed-acf3-b093ccf02d8b
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/5083d1c1-0e0f-466e-a335-64457c8e6db8/cdb784cf-8e2a-46ed-acf3-b093ccf02d8b/oQ5X9dt
